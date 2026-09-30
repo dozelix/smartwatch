@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_watch"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/nav_watch" />
+    <item
+        android:id="@+id/nav_clima"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="@string/nav_clima" />
+    <item
+        android:id="@+id/nav_alarma"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="@string/nav_alarma" />
+    <item
+        android:id="@+id/nav_pasos"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="@string/nav_pasos" />
+    <item
+        android:id="@+id/nav_iot"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/nav_iot" />
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smartwatch IoT</string>
+    <string name="nav_watch">Reloj</string>
+    <string name="nav_clima">Clima</string>
+    <string name="nav_alarma">Alarma</string>
+    <string name="nav_pasos">Pasos</string>
+    <string name="nav_iot">IoT</string>
+</resources>

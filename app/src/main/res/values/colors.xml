@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0F172A</color>
+    <color name="panel">#1E293B</color>
+    <color name="acc">#00B4D8</color>
+    <color name="brand">#CA4B34</color>
+    <color name="marino">#223464</color>
+    <color name="yel">#FBB615</color>
+    <color name="grn">#16A34A</color>
+</resources>
